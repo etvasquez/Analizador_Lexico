@@ -1,0 +1,11 @@
+start
+double suma= 5,5fdf;
+int a = 5;
+int 5;
+if(numero>=):
+	suma += suma;
+	set("El valor es mayor");
+else:
+	set("El valor es menor");
+endif;
+finish; 
